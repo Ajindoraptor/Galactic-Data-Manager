@@ -1,1 +1,0 @@
-# Galactic-Data-Manager
